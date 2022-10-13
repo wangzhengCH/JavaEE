@@ -8,5 +8,10 @@ public class test {
 
         b = false;
         System.out.println(b);
+
+        byte b1 = -128;
+        byte b2 = 127;
+        System.out.println(b1);
+        System.out.println(b2);
     }
 }
